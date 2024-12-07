@@ -49,3 +49,5 @@ function App() {
     </Router>
   );
 }
+
+export default App;  // Certifique-se de que essa linha está presente
